@@ -1,0 +1,6 @@
+{
+  "name": "Levva — Mobilidade feita para Angola",
+  "description": "Entregas e mobilidade pensadas para a realidade de Angola. Simples, próximas e feitas para o dia a dia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
